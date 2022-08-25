@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scene_kim/1_Intro_kim.unity
+    guid: 696abe6a90dd41c4fb6f0e7f76b4d127
+  - enabled: 1
+    path: Assets/_Scene_kim/2_EscapeEarth_kim.unity
+    guid: b2094314e17fb8e4d94277d77b80b42b
+  - enabled: 1
+    path: Assets/_Scene_kim/3_SpaceDebris_kim_ex.unity
+    guid: 5aa7918b200835e489078a33d7c1dc21
+  - enabled: 1
+    path: Assets/_Scene_kim/4_Constellation_kim.unity
+    guid: a4db3a31337bfd64786fb9afb6bbb89e
+  - enabled: 1
+    path: Assets/_Scene_kim/5_Blackhole_kim.unity
+    guid: 81ef67fd353ef0b47850411777a8cede
+  - enabled: 1
+    path: Assets/_Scene_kim/6_Hiion_kim.unity
+    guid: 698f9d4a919903c429e137c8637a34cb
+  - enabled: 1
+    path: Assets/_Scene_kim/7_Burning_kim.unity
+    guid: 6ea12fc2cfa6bbc4588a2d48308b5675
+  - enabled: 0
+    path: Assets/_Scene_kim/SceneChangeTest_1.unity
+    guid: de3cfeb02d987c541866ece8c3fae5f6
+  - enabled: 0
+    path: Assets/_Scene_kim/SceneChangeTest_2.unity
+    guid: 8f45cdb8144424a43a1ec70b57284475
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 495f220c8e258e845b1b29f8349511f3, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a90b2a06aa083f34db7be642d0d87f5c, type: 2}
